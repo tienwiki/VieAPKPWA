@@ -1,0 +1,23 @@
+ {
+    "name": "VieAPK",
+    "short_name": "VieAPK",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmUxKqa9hNiOw-kL83NJo3I61vwBGs8Uwt6l1qg3tQ4ByM7XnpEHdxN9quVott-ZC7DCcKTuAmF9rAkGGIAOD7D6jypbxQnsEcJzEOT3k7o2X4LlbdOGsoSihh5VKWeRfkrt46vLlR-nHIVWWJgDvByxBuF08oTcOeMQVAAdjmSBRRpW_MQMC-lu91GA/s1600/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBiM4zJuoyFnYEq58_RkQ9JV3ExP1WDUof4YAgMbVJZ8ZicYWsB2On7fwLNjHLrGuU3WkifkIGkcD14_2m1aE1Da1SkV0YaqbvmVLRkDuayuYo66Icdxop34zFS4BomEpAeN4zZYHrxIcUHmgvgIe8fxcuBAra7g2kzboWB2upleFdGBG_sQH1Dnc4nQ/s1600/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.vieapk.com"
+}
